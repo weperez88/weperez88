@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @weperez88
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Smart Contract
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning Net 6
 - 📫 How to reach me weperez88@gmail.com
 
 <!---
